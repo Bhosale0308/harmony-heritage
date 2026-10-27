@@ -1006,7 +1006,7 @@ export default function Home() {
 
   <div className="hh-footer-bottom">
     <span>
-      © {new Date().getFullYear()} Harmony Heritage
+    © 2026 Harmony Heritage
     </span>
     <span className="hh-footer-disclaimer">
       Project information subject to confirmation by the developer.
